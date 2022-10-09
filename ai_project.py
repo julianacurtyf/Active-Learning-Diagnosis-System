@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""AI Project - group 8
+"""AI Project
 
 Catarina Pinto
 Juliana Faria
